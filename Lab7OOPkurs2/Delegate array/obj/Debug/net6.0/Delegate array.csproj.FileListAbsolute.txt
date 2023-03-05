@@ -1,0 +1,21 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Lab7OOPkurs2.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Lab7OOPkurs2.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Lab7OOPkurs2.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Delegate array.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Delegate array.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Delegate array.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Delegate array.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Delegate array.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Lab7OOPkurs2.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\bin\Debug\net6.0\Lab7OOPkurs2.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.csproj.CopyComplete
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\refint\Delegate array.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\Delegate array.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab7\Lab7OOPkurs2\Delegate array\obj\Debug\net6.0\ref\Delegate array.dll
